@@ -16,7 +16,7 @@
 		android:textColor="#FFFFFF" android:paddingLeft="10dip" />
 
 	<Button android:layout_width="300dip" android:id="@+id/btnEmailUs"
-		android:layout_height="wrap_content" android:text="Email Quran Android"
+		android:layout_height="wrap_content" android:text="Email Quantum Works"
 		android:layout_centerHorizontal="true" android:layout_above="@id/txtCopyRights"
 		android:visibility="visible" />
 
